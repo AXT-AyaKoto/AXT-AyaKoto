@@ -1,6 +1,6 @@
 # 綾坂こと
 
-<img src="https://github.com/AXT-AyaKoto/AXT-AyaKoto/assets/148830788/6abd8fda-5c36-4c79-9490-d25867afa226" height="200">
+<img src="https://cdn.jsdelivr.net/gh/AXT-AyaKoto/AXT-AyaKoto/icon.jpg" height="200">
 
 > あなたが想像できる日常があなたの手で創造できるのと同様に、私が想像している未来は私の手で創造できると信じています。
 
