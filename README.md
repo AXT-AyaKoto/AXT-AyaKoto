@@ -5,11 +5,10 @@
 > あなたが想像できる日常があなたの手で創造できるのと同様に、私が想像している未来は私の手で創造できると信じています。  
 > Just as you can realize anything you can imagine, I believe I can realize anything I imagine.
 
-綾急技研のリーダー・プロデューサー。
-2006年2月23日生まれ、17歳(2024年1月10日時点)。
+2006年2月23日生まれ、17歳(2024年2月5日時点)。
 
-綾急技研の中核として、綾急技研が制作するすべてのコンテンツの指揮を執る。
-また、動画やWebサイトなど、綾急技研の様々なコンテンツの制作を担当する。
+- 綾急技研のリーダー・プロデューサー。動画やWebサイトなど、綾急技研の様々なコンテンツの制作・指揮を担当する。
+- holorhysmのメイン開発者・譜面制作者。holorhysmのシステム開発および総合プロデュースを担う。
 
 ## Handles
 
@@ -41,3 +40,7 @@
 
 - Twitter(現𝕏) : [@AyaKoto_info](https://twitter.com/i/user/1421232922594406400)
 - Youtube : [@AXT-AyaKoto](https://www.youtube.com/channel/UCG-akSLtyxNcycYhH4UP4QA)
+- niconico : [綾坂こと](https://www.nicovideo.jp/user/116499270)
+- note : [axt_ayakoto](https://note.com/axt_ayakoto/)
+- Qiita : [@AXT_AyaKoto](https://qiita.com/AXT_AyaKoto)
+- GitHub : [@AXT_AyaKoto](https://github.com/AXT-AyaKoto)
