@@ -1,6 +1,6 @@
 # 綾坂こと
 
-<img src="https://cdn.jsdelivr.net/gh/AXT-AyaKoto/AXT-AyaKoto/icon.jpg" height="200">
+<img src="https://cdn.jsdelivr.net/gh/AXT-AyaKoto/AXT-AyaKoto@master/images/icon.png" height="200"> <img src="https://cdn.jsdelivr.net/gh/AXT-AyaKoto/AXT-AyaKoto@master/images/Logo_AXTstyle.png" height="200">
 
 > あなたが想像できる日常があなたの手で創造できるのと同様に、私が想像している未来は私の手で創造できると信じています。  
 > Just as you can realize anything you can imagine, I believe I can realize anything I imagine.
